@@ -3,7 +3,7 @@
 Makes an array of pies.
 
 ## Screenshots
-![image of pies](https://raw.githubusercontent.com/sarah-weatherbee/pie/master/screenshots/pie_shot.png)
+![image of product cards](https://raw.githubusercontent.com/sarah-weatherbee/product-cards/master/screenshots/.png)
 
 ## Getting Started
 
