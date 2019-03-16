@@ -1,9 +1,11 @@
 # product-cards
 
-Makes an array of pies.
+Makes product cards using HTML and CSS.
 
 ## Screenshots
 ![image of product cards](https://raw.githubusercontent.com/sarah-weatherbee/product-cards/master/screenshots/product_cards_1.png)
+![image of product cards](https://raw.githubusercontent.com/sarah-weatherbee/product-cards/master/screenshots/product_cards_2.png)
+
 
 ## Getting Started
 
